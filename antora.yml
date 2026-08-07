@@ -1,0 +1,5 @@
+name: enhanced-experience
+title: Enhanced MuleSoft Experience
+version: ~
+nav:
+- modules/ROOT/nav.adoc
