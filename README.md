@@ -1,10 +1,5 @@
-# README
+# docs-mulesoft-experience
+MuleSoft Docs GitHub repo: docs-mulesoft-experience
 
-A repo containing all the basic file templates for a docs-only project at Salesforce.
-
-## Usage
-
-It's required that all files must be placed at the top level of your repository.
-
-> **NOTE** Your README should contain detailed, useful information about the project!
+Antora documentation source for the Enhanced MuleSoft Experience.
 
