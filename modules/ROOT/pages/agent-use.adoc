@@ -342,7 +342,7 @@ The AI assistant operates within your organization's security and privacy contro
 
 == See Also
 
-* xref:ai-assistant-troubleshoot.adoc[]
+* xref:agent-troubleshoot.adoc[]
 * xref:home-start.adoc[]
 * xref:index.adoc[]
 * xref:portfolio-overview.adoc[]
